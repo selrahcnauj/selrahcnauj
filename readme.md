@@ -10,7 +10,7 @@ A full-stack dev, but leaning more towards front-end development
 ## Languages
 - Java
 - JQuery
-- Javascript
+- JavaScript/ TypeScript
 - SQL
 - C#
 - Xamarin
