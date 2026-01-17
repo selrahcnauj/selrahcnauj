@@ -1,17 +1,17 @@
-Hi! I'm selrah.
+# Hi! I'm selrah
 
-A full-stack dev, but leaning more towards front-end development
+A Full-Stack Developer specializing in Front-End Design & Development
 
-## I Develop
-- Web Service (Discord Bots)
-- Front-end Webpages
-- Android Applications
+## Experience
+- Full-Stack ReactJS Web
+- Web Service through Express, JS, and TypeScript (Discord Bots)
+- Front-End Web Designs
+- Android Java Applications
 
-## Languages
-- Java
-- JQuery
-- JavaScript/ TypeScript
-- SQL
-- C#
-- Xamarin
-- HTML
+## Programming Languages & Technologies
+
+| Type | Language/Tech |
+|-----------|--------|
+| Front-End | JavaScript, Tailwind, HTML, CSS |
+| Back-End | JavaScript, TypeScript, Firebase, Java, SQL, Google Cloud | 
+
