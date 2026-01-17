@@ -15,3 +15,7 @@ A Full-Stack Developer specializing in Front-End Design & Development
 | Front-End | `JavaScript, Tailwind, HTML, CSS` |
 | Back-End | `JavaScript, TypeScript, Firebase, Java, SQL, Google Cloud` | 
 
+## Interests
+- Photography & Videography
+- Color Grading
+- Graphic Design
