@@ -12,6 +12,6 @@ A Full-Stack Developer specializing in Front-End Design & Development
 
 | Type | Language/Tech |
 |-----------|--------|
-| Front-End | JavaScript, Tailwind, HTML, CSS |
-| Back-End | JavaScript, TypeScript, Firebase, Java, SQL, Google Cloud | 
+| Front-End | `JavaScript, Tailwind, HTML, CSS` |
+| Back-End | `JavaScript, TypeScript, Firebase, Java, SQL, Google Cloud` | 
 
