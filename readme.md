@@ -1,6 +1,6 @@
 # Hi! I'm selrah
 
-A Full-Stack Developer specializing in Front-End Design & Development
+A Full-Stack Developer specializing in Front-End UI/UX Design & Development
 
 ## Experience
 - Full-Stack ReactJS Web
@@ -12,8 +12,9 @@ A Full-Stack Developer specializing in Front-End Design & Development
 
 | Type | Language/Tech |
 |-----------|--------|
-| Front-End | `JavaScript, Tailwind, HTML, CSS` |
-| Back-End | `JavaScript, TypeScript, Firebase, Java, SQL, Google Cloud` | 
+| Front-End | `React JS, JavaScript, Tailwind, HTML, CSS, PHP` |
+| Back-End | `JavaScript, TypeScript, Firebase, Java, SQL, Google Cloud Platform, Node JS` |
+
 
 ## Interests
 - Photography & Videography
