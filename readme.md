@@ -8,6 +8,11 @@ A Full-Stack Developer specializing in Front-End UI/UX Design & Development
 - Front-End Web Designs
 - Android Java Applications
 
+## Projects
+**E-Commerce Web System**
+- ReactJS, Google LLM, Google Cloud Platform, Maya Payment Solutions, Lalamove API
+
+
 ## Programming Languages & Technologies
 
 | Type | Language/Tech |
