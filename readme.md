@@ -10,6 +10,8 @@ A Full-Stack Developer specializing in Front-End UI/UX Design & Development
 
 ## Projects
 **E-Commerce Web System**
+- Google LLM (Smarter Menu & Package Recommendations based on User Preference & Instruction)
+- Ordering System, Order Management, Integrated Payment Solutions
 - ReactJS, Google LLM, Google Cloud Platform, Maya Payment Solutions, Lalamove API
 
 
